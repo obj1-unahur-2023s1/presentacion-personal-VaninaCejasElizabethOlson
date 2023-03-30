@@ -1,4 +1,4 @@
-![Foto](./assets/VaninaElizabethCejasOlson.png)
+![Foto](./assets/VaninaElizabethCejasOlson.jpg)
 
 Bienvenidos a
 # Programación con objetos I
